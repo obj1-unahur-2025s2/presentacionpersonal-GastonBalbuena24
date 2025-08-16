@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Gaston Balbuena
+- Vivo en Loma hermosa
 
 
 ### Otra Información
