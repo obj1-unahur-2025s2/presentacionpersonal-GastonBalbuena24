@@ -9,8 +9,7 @@
 
 
 ### Otra Información
-- Tengo 24 años y naci el 10 de diciembre del año
-2000.
+- Tengo 24 años y naci el 10 de diciembre del año 2000.
 Termine la secundaria como técnico electromecánico en 2019.
 Desde mi adolescencia me empezó a interesar la tecnología y como funciona todo lo
 digital, desde como funciona la electricidad a como se programan las aplicaciones y
